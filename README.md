@@ -44,3 +44,5 @@ high quality, we request that contributions adhere to the following guidelines.
 
 In general, the more you can do to help us understand the change you’re making,
 the more likely we’ll be to accept your contribution quickly.
+
+## License: [MIT][https://opensource.org/licenses/MIT] 
