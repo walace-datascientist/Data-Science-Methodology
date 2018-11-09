@@ -1,4 +1,4 @@
-# Data Science `Methodology` Repository
+﻿# Data Science `Methodology` Repository
 
 ## Introduction
 The aim of this repository is discuss the proposal of a Data Science Methodogy developed by Doctor John B. Rollins consisting of a 10-stage data science methodology that spans technologies and approaches to form an iterative process for using data to uncover insights
@@ -42,4 +42,5 @@ high quality, we request that contributions adhere to the following guidelines.
 - **Please only modify *one template* per pull request**. This helps keep pull
   requests and feedback focused on a specific project or technology.
 
-
+In general, the more you can do to help us understand the change you’re making,
+the more likely we’ll be to accept your contribution quickly.
