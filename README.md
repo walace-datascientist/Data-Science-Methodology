@@ -1,3 +1,4 @@
 # Data Science `Methodology` Repository
 
-Data Science Methodology 
+## Introduction
+The aim of this repository is 
