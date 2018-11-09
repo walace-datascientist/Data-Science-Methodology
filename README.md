@@ -8,3 +8,9 @@ For more information about this methodology, the following course on  [`Coursera
 
 [methodology_link]: https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=IMW14824USEN#
 [course_link]: https://www.coursera.org/specializations/ibm-data-science-professional-certificate
+
+## Content
+This repository contains the following files 
+
+- item 1
+- item 2
