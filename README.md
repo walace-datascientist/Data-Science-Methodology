@@ -12,5 +12,7 @@ For more information about this methodology, the following course on  [`Coursera
 ## Content
 This repository contains the following files 
 
-- item 1
-- item 2
+- Jupyter Notebooks describing carefully each step of Data Science Methodology
+- PDF version of Jupyter Notebooks
+
+
