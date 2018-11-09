@@ -1,2 +1,3 @@
-# Data-Science-Methodology
+# Data Science 'Methodology' Repository
+
 Data Science Methodology 
