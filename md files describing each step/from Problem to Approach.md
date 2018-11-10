@@ -93,6 +93,88 @@ As you guessed, yes determining the cuisine of a given dish based on its ingredi
 
 * When we talk about **indian** cuisines, the first ingredient that comes to one's mind is masala or chillis.
 
+#### Accordingly, can you determine the cuisine of the dish associated with the following list of ingredients?
+
+<img src="https://ibm.box.com/shared/static/bs81fv2n5lidkv9hg827qn5s86gdk090.png" width=600>
+
+ANSWER: Japanese since the recipe is most likely that of a sushi roll.
+
+# Analytic Approach <a id="2"></a>
+
+<img src="https://ibm.box.com/shared/static/i19z7bijbksl5kkmm81ngg39y0ruzirh.png" width=500>
+
+#### So why are we interested in data science?
+
+Once the business problem has been clearly stated, the data scientist can define the analytic approach to solve the problem. This step entails expressing the problem in the context of statistical and machine-learning techniques, so that the entity or stakeholders with the problem can identify the most suitable techniques for the desired outcome. 
+
+#### Why is the analytic approach stage important?
+
+ANSWER: Because it helps identify what type of patterns will be needed to address the question most effectively.
+
+#### Let's explore a machine learning algorithm, decision trees, and see if it is the right technique to automate the process of identifying the cuisine of a given dish or recipe while simultaneously providing us with some insight on why a given recipe is believed to belong to a certain type of cuisine.
+
+This is a decision tree that a naive person might create manually. Starting at the top with all the recipes for all the cuisines in the world, if a recipe contains **rice**, then this decision tree would classify it as a **Japanese** cuisine. Otherwise, it would be classified as not a **Japanese** cuisine.
+
+<img src="https://ibm.box.com/shared/static/1dzmelrcfsgba47rbbagbxiqisqgy63n.png" width=500>
+
+#### Is this a good decision tree?  Yes or  No, and why?
+
+ANSWER: No, because a plethora of dishes from other cuisines contain rice. Therefore, using rice as the ingredient in the Decision node to split on is not a good choice.
+
+#### In order to build a very powerful decision tree for the recipe case study, let's take some time to learn more about decision trees.
+
+* Decision trees are built using recursive partitioning to classify the data.
+* When partitioning the data, decision trees use the most predictive feature (ingredient in this case) to split the data.
+* **Predictiveness** is based on decrease in entropy - gain in information, or *impurity*.
+
+#### Suppose that our data is comprised of green triangles and red circles.
+
+The following decision tree would be considered the optimal model for classifying the data into a node for green triangles and a node for red circles.
+
+<img src="https://ibm.box.com/shared/static/obwksbsin10mlg2m8x8ehe9xeyjfizqx.png" width=400>
+
+Each of the classes in the leaf nodes are completely pure – that is, each leaf node only contains datapoints that belong to the same class.
+
+On the other hand, the following decision tree is an example of the worst-case scenario that the model could output. 
+
+<img src="https://ibm.box.com/shared/static/qenfaznfhwvvvlkjtzjirqgb4j5xx48l.png" width=500>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
