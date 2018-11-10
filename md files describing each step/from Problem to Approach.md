@@ -69,3 +69,53 @@ Photographs by Avlxyz: https://commons.wikimedia.org/wiki/Category:Photographs_b
 
 ANSWER: No, especially when it comes to countries in close geographical proximity such as Scandinavian countries, or Asian countries.
 
+At this point, we realize that automating the process of determining the cuisine of a given dish is not a straightforward problem as we need to come up with a way that is very robust to the many cuisines and their variations.
+
+#### Q. What about determining the cuisine of a dish based on its ingredients?
+
+ANSWER: Potentially yes, as there are specific ingredients unique to each cuisine.
+
+As you guessed, yes determining the cuisine of a given dish based on its ingredients seems like a viable solution as some ingredients are unique to cuisines. For example:
+
+* When we talk about **American** cuisines, the first ingredient that comes to one's mind (or at least to my mind =D) is beef or turkey.
+
+* When we talk about **British** cuisines, the first ingredient that comes to one's mind is haddock or mint sauce.
+
+* When we talk about **Canadian** cuisines, the first ingredient that comes to one's mind is bacon or poutine.
+
+* When we talk about **French** cuisines, the first ingredient that comes to one's mind is bread or butter.
+
+* When we talk about **Italian** cuisines, the first ingredient that comes to one's mind is tomato or ricotta.
+
+* When we talk about **Japanese** cuisines, the first ingredient that comes to one's mind is seaweed or soy sauce.
+
+* When we talk about **Chinese** cuisines, the first ingredient that comes to one's mind is ginger or garlic.
+
+* When we talk about **indian** cuisines, the first ingredient that comes to one's mind is masala or chillis.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
