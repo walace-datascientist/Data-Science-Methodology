@@ -12,6 +12,7 @@ For more information about this methodology, the following course on  [`Coursera
 ## Content
 This repository contains the following files 
 
+- .md files describing each step of the data science methodology
 - Jupyter Notebooks describing carefully each step of Data Science Methodology
 - PDF version of Jupyter Notebooks
 
@@ -45,4 +46,6 @@ high quality, we request that contributions adhere to the following guidelines.
 In general, the more you can do to help us understand the change you’re making,
 the more likely we’ll be to accept your contribution quickly.
 
-## License: [MIT][https://opensource.org/licenses/MIT] 
+## License: [MIT][mit_link]
+
+[mit_link]: https://opensource.org/licenses/MIT 
