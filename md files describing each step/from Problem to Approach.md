@@ -20,3 +20,14 @@ In this lab, we will start learning about the data science methodology, and focu
 <hr>
 
 # Business Understanding <a id="0"></a>
+
+This is the **Data Science Methodology**, a flowchart that begins with business understanding.
+
+<img src="https://ibm.box.com/shared/static/eyl60n09iige3eo5tac3dweqko2s58oo.png" width=500>
+
+#### Why is the business understanding stage important?
+
+Double-click __here__ for the solution.
+<!-- The correct answer is:
+It helps clarify the goal of the entity asking the question.
+-->
