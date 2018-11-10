@@ -9,3 +9,14 @@ The aim of these labs is to reinforce the concepts that we discuss in each modul
 In this lab, we will start learning about the data science methodology, and focus on the **Business Understanding** and the **Analytic Approach** stages.
 
 ------------
+
+## Table of Contents
+
+<div class="alert alert-block alert-info" style="margin-top: 20px">
+
+1. [Business Understanding](#0)<br>
+2. [Analytic Approach](#2) <br>
+</div>
+<hr>
+
+# Business Understanding <a id="0"></a>
