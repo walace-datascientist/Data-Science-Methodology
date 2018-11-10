@@ -59,7 +59,13 @@ ANSWER: The cuisine is <strong>Japanese</strong>. Here are links to the images o
 
 Beast: https://ibm.box.com/shared/static/5e7duvewfl5bk4317sna5skvdhrehro2.png
 
+2PM: https://ibm.box.com/shared/static/d9xuzqm8cq76zxxcc0f9gdts4iksipyk.png
 
+4 Minute: https://ibm.box.com/shared/static/f1fwvvwn4u8rx8tghep6zyj5pi6a8v8k.png
 
+Photographs by Avlxyz: https://commons.wikimedia.org/wiki/Category:Photographs_by_Avlxyz
 
+#### Q. What about by appearance only? Yes or No.
+
+ANSWER: No, especially when it comes to countries in close geographical proximity such as Scandinavian countries, or Asian countries.
 
