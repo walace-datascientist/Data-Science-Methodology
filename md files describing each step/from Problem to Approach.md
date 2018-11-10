@@ -27,7 +27,16 @@ This is the **Data Science Methodology**, a flowchart that begins with business 
 
 #### Why is the business understanding stage important?
 
-Double-click __here__ for the solution.
-<!-- The correct answer is:
-It helps clarify the goal of the entity asking the question.
--->
+ANSWER: It helps *clarify* the *goal* of the entity asking the question.
+
+#### Looking at this diagram, we immediately spot two outstanding features of the data science methodology.
+
+<img src = "https://ibm.box.com/shared/static/6u3evi4h52e80cq78alqgza8nhfy8vhl.png" width = 500> 
+
+#### What are they?
+
+ANSWERS: 
+1. The flowchart is highly iterative.
+2. The flowchart never ends. 
+
+
