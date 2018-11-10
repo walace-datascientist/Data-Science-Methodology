@@ -39,4 +39,27 @@ ANSWERS:
 1. The flowchart is highly iterative.
 2. The flowchart never ends. 
 
+#### Now let's illustrate the data science methodology with a case study.
+
+Say, we are interested in automating the process of figuring out the cuisine of a given dish or recipe. Let's apply the business understanding stage to this problem.
+
+#### Q. Can we predict the cuisine of a given dish using the name of the dish only?
+
+ANSWER: No
+
+#### Q. For example, the following dish names were taken from the menu of a local restaurant in Toronto, Ontario in Canada. 
+
+#### 1. Beast
+#### 2. 2 PM
+#### 3. 4 Minute
+
+#### Are you able to tell the cuisine of these dishes?
+
+ANSWER: The cuisine is <strong>Japanese</strong>. Here are links to the images of the dishes:
+
+Beast: https://ibm.box.com/shared/static/5e7duvewfl5bk4317sna5skvdhrehro2.png
+
+
+
+
 
