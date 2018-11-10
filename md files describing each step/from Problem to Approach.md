@@ -139,65 +139,30 @@ On the other hand, the following decision tree is an example of the worst-case s
 
 <img src="https://ibm.box.com/shared/static/qenfaznfhwvvvlkjtzjirqgb4j5xx48l.png" width=500>
 
+Each leaf node contains datapoints belonging to the two classes resulting in many datapoints ultimately being misclassified.
 
+#### A tree stops growing at a node when:
+* Pure or nearly pure.
+* No remaining variables on which to further subset the data.
+* The tree has grown to a preselected size limit.
 
+#### Here are some characteristics of decision trees:
 
+<img src="https://ibm.box.com/shared/static/05mkemi191f6hbhw6f3ewrusckkgu861.png" width=800>
 
+Now let's put what we learned about decision trees to use. Let's try and build a much better version of the decision tree for our recipe problem.
 
+<img src="https://ibm.box.com/shared/static/e1ok280uavy6k8u7loli59ftoz66kk1s.png" width = 500>
 
+I hope you agree that the above decision tree is a much better version than the previous one. Although we are still using **Rice** as the ingredient in the first *decision node*, recipes get divided into **Asian Food** and **Non-Asian Food**. **Asian Food** is then further divided into **Japanese** and **Not Japanese** based on the **Wasabi** ingredient. This process of splitting *leaf nodes* continues until each *leaf node* is pure, i.e., containing recipes belonging to only one cuisine.
 
+Accordingly, decision trees is a suitable technique or algorithm for our recipe case study.
 
+### Thank you for completing this lab!
 
+This notebook was created by [Alex Aklson](https://www.linkedin.com/in/aklson/). I hope you found this lab session interesting. Feel free to contact me if you have any questions!
 
+This notebook is part of a course on **Coursera** called *Data Science Methodology*. If you accessed this notebook outside the course, you can take this course, online by clicking [here](http://cocl.us/DS0103EN_Coursera_LAB1).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<hr>
+Copyright &copy; 2018 [Cognitive Class](https://cognitiveclass.ai/?utm_source=bducopyrightlink&utm_medium=dswb&utm_campaign=bdu). This notebook and its source code are released under the terms of the [MIT License](https://bigdatauniversity.com/mit-license/).
